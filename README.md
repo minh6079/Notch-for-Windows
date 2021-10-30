@@ -1,5 +1,5 @@
 # Notch for Windows
-Have a Windows computer and want to feel like you have the newest Macbook? You can by getting your very own notch!
+Have a Windows computer and want to feel like you have the newest Macbook? You can by getting your very own notch! (Might work on mac, idk)
 
 A very basic method of getting the 'notch' on your computer, make sure to not use a monitor otherwise the monitor will magically get a notch XD
 
