@@ -6,11 +6,11 @@ def unmap(event):
         
 root = tk.Tk()
 
-notchx = 200
-notchy = 50
-
 ws = root.winfo_screenwidth()
 hs = root.winfo_screenheight()
+
+notchx = int(ws/9)
+notchy = int(hs/40)
 
 leftx = (ws/2) - (notchx/2)
 rightx = (ws/2) + (notchx/2)
