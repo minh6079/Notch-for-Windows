@@ -10,7 +10,7 @@ ws = root.winfo_screenwidth()
 hs = root.winfo_screenheight()
 
 notchx = int(ws/9)
-notchy = int(hs/40)
+notchy = int(hs/30)
 
 leftx = (ws/2) - (notchx/2)
 rightx = (ws/2) + (notchx/2)
